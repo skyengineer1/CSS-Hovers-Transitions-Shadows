@@ -1,0 +1,142 @@
+button.uber-button {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 45px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button.uber-button:hover {
+    opacity: 0.7;
+}
+
+button.amazon-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    height: 40px;
+    width: 180px;
+    border-radius: 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button.amazon-button:hover {
+    background-color: rgb(216, 180, 0);
+}
+
+button.amazon-button:active {
+    opacity: 0.6;
+}
+
+button.sign-button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    height: 50px;
+    width: 110px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button.sign-button:hover {
+    box-shadow: 1px 1px 5px black;
+}
+
+button.bootstrap-started {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    height: 45px;
+    width: 120px;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button.bootstrap-started:hover {
+    background-color: rgb(96, 54, 159);
+}
+
+button.bootstrap-download {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border: 1px solid rgb(108, 117, 125);
+    width: 120px;
+    height: 45px;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button.bootstrap-download:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+
+button.linkedin-apply {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    width: 270px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+button.linkedin-apply:hover {
+    background-color: rgb(5, 80, 154);
+}
+
+button.linkedin-save {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border: 1px solid rgb(10, 102, 194);
+    width: 90px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 19px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+button.linkedin-save:hover {
+    border-width: 3px;
+    background-color: rgb(230, 242, 255);
+}
+
+a {
+    color: rgb(0, 113, 133);
+}
+
+a:hover {
+    color: tomato;
+}
+
+button.amazon-buy {
+    background-color: rgb(255, 164, 28);
+    border: none;
+    color: black;
+    height: 40px;
+    width: 180px;
+    border-radius: 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button.amazon-buy:hover {
+    background-color: rgb(255, 178, 62);
+}
+
+button.amazon-buy:active {
+    opacity: 0.7;
+}
